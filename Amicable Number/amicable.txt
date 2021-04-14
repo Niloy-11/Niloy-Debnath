@@ -1,0 +1,22 @@
+Subject: To Determine Amicable Numbers Pair.
+
+284 = 1 x 284
+    = 2 x 142
+    = 4 x 71
+
+Proper divisor of 284 = 1, 2, 4, 71, 142
+1 + 2 + 4 + 71 + 142 = 220
+
+Besides,
+220 = 1 x 220
+    = 2 x 110
+    = 4 x 55
+    = 5 x 44
+    = 10 x 22
+    = 11 x 20
+
+
+Proper divisor of 220 = 1, 2, 4, 5, 10, 11, 20, 22, 44, 55, 110
+1 + 2 + 4 + 5 + 10 + 11 + 20 + 22 + 44 + 55 + 110 = 284
+
+So 220 & 284 is an Amicable pair.
